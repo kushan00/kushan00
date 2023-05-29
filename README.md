@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushan00" alt="kushan00" /></a> </p>
 
-- 🌱 I’m currently working with **Mern Stack , Fluter**
+- 🌱 I’m currently working with **Mern Stack , Flutter**
 
 - 📫 How to reach me **kushandimantha533@gmail.com**
 
