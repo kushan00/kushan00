@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kushan Dimantha</h1>
 <h3 align="center">Software Engineering undergraduate at SLIIT</h3>
-<h3 align="center">Associate Software Engineering at Nexmatrix Lab</h3>
+<h3 align="center">Associate Software Engineering at CodeHub</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushan00&label=Profile%20views&color=0e75b6&style=flat" alt="kushan00" /> </p>
 
